@@ -1,2 +1,2 @@
-# dictionary
+# Dictionary
 Created with CodeSandbox
